@@ -1,0 +1,88 @@
+.App {
+  margin: 8%;
+}
+
+
+.App-header {
+  background-color: white;
+  min-height: 100vh;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+
+.artistname{
+  font-size: 20px;
+  font-weight: medium;
+}
+
+.clickable{
+  cursor: pointer;
+}
+
+.artists{
+  color: black;
+}
+
+.artists:hover{
+  text-decoration: none;
+}
+
+.artist span{
+float: right;
+
+
+}
+.link{
+  color:rgb(246, 42, 84)
+}
+
+
+.titolo{
+
+  font-size: 28px;
+}
+
+
+.return{
+
+  font-size: 23px;
+  color:rgb(246, 42, 84);
+  margin-left: 20px;
+  
+}
+.return:hover{
+  text-decoration: none;
+  color: rgb(246, 42, 84);
+}
+
+.table td {
+  padding: 0.05rem!important;}
+
+
+
+.title{
+  color: black;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.subtitle{
+  color: rgb(158, 159, 160);;
+}
+.col-margin{
+  margin-bottom: 20px;
+}
+.card{
+  height: auto;
+}
+.musicPlayer{
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
